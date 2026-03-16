@@ -2,13 +2,13 @@
   "name": "TechnoLightBOT",
   "bot-account": {
     "username": "TechnoLightBOT",
-    "password": "708898",
+    "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "LightTown.aternos.me",
     "port": 14036,
-    "version": "1.21.11",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
