@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "TechnoLightBOT",
   "bot-account": {
-    "username": "imgonnacream",
-    "password": "",
+    "username": "TechnoLightBOT",
+    "password": "708898",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "LightTown.aternos.me",
+    "port": 14036,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "708898"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to TechnoLightYT at https://youtube.com/@technolightyt",
+        "I'm 24/7 advanced bot!",
         "I like to play Minecraft!"
       ]
     },
